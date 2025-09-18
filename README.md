@@ -83,7 +83,7 @@ mlops-assignment-1/
 
 **Best Performing Model**: Random Forest
 ### Model Comparison Visualization
-![Model Comparison](./results/model_comparison.png)
+<img width="4470" height="2966" alt="model_comparison" src="https://github.com/user-attachments/assets/f83f4591-070e-4010-9362-b15c5db40f4b" />
 
 ## 🔬 MLflow Experiment Tracking
 
@@ -99,7 +99,7 @@ mlops-assignment-1/
 ### MLflow UI Screenshots
 
 #### Experiment Overview
-![alt text](image-1.png)*Screenshot showing all experiment runs with metrics comparison*
+<img width="1911" height="603" alt="image-1" src="https://github.com/user-attachments/assets/aaf2b059-a75e-478c-a800-bcf33a74b959" />
 
 
 ## 🏆 Model Registry & Deployment
