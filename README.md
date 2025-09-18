@@ -82,9 +82,8 @@ mlops-assignment-1/
 | SVM | 97% | 97% | 97% | 97% |
 
 **Best Performing Model**: Random Forest
-
 ### Model Comparison Visualization
-![alt text](image.png)
+![Model Comparison](./results/model_comparison.png)
 
 ## 🔬 MLflow Experiment Tracking
 
@@ -102,13 +101,6 @@ mlops-assignment-1/
 #### Experiment Overview
 ![alt text](image-1.png)*Screenshot showing all experiment runs with metrics comparison*
 
-#### Model Metrics Comparison
-![MLflow Metrics](screenshots/mlflow_metrics.png)
-*Screenshot showing detailed metrics comparison across models*
-
-#### Individual Run Details
-![MLflow Run Details](screenshots/mlflow_run_details.png)
-*Screenshot showing detailed view of a single experiment run*
 
 ## 🏆 Model Registry & Deployment
 
@@ -118,12 +110,6 @@ mlops-assignment-1/
 - **Stage**: Production
 - **Description**: Best performing model based on accuracy metrics
 
-### Model Registry Screenshots
-![Model Registry](screenshots/model_registry.png)
-*Screenshot showing registered model in MLflow Model Registry*
-
-![Model Version Details](screenshots/model_version_details.png)
-*Screenshot showing model version details and metadata*
 
 ## 🚀 How to Run the Project
 
